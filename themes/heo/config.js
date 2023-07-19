@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://chancesha.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://chancesha.com' }
+    { title: '欢迎来到我的博客', url: 'https://chancesha.com/about' },
+    { title: '访问文档中心获取更多帮助', url: 'https://www.chancesha.com/links' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_3: 'CHANCESHA.COM',
   HERO_TITLE_4: 'Notion一站式管理生活',
   HERO_TITLE_5: '让分享与记录两不误',
-  HERO_TITLE_LINK: 'https://chancesha.com',
+  HERO_TITLE_LINK: 'https://www.chancesha.com/article/personal-work-dashboard',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看' },
@@ -26,7 +26,7 @@ const CONFIG = {
   INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 专修分析与挖掘',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
@@ -98,7 +98,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://chancesha.com',
+  SOCIAL_CARD_URL: 'https://www.chancesha.com/links',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
