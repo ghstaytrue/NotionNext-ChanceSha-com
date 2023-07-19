@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '分享技术',
   HERO_TITLE_2: '与数据挖掘',
   HERO_TITLE_3: 'CHANCESHA.COM',
-  HERO_TITLE_4: 'Notion',
-  HERO_TITLE_5: '一站式管理生活，让分享与记录两不误',
+  HERO_TITLE_4: 'Notion一站式管理生活',
+  HERO_TITLE_5: '让分享与记录两不误',
   HERO_TITLE_LINK: 'https://chancesha.com',
 
   // 英雄区显示三个置顶分类
