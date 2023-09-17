@@ -379,7 +379,7 @@ function TodayCard({ cRef }) {
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
             background:
-              "url('https://smms.app/image/57XgGMJNtz9DRS4') no-repeat center /cover"
+              "url('https://s2.loli.net/2023/09/17/57XgGMJNtz9DRS4.jpg') no-repeat center /cover"
           }}
         ></div>
       </div>
